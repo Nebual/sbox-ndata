@@ -1,0 +1,20 @@
+{
+  "Title": "NData Client-\u003EServer Networking",
+  "Type": "library",
+  "Org": "wiremod",
+  "Ident": "ndata",
+  "Tags": "",
+  "Schema": 1,
+  "HasAssets": false,
+  "AssetsPath": "",
+  "Resources": null,
+  "MenuResources": null,
+  "HasCode": true,
+  "CodePath": "/code/",
+  "PackageReferences": [],
+  "EditorReferences": null,
+  "Metadata": {
+    "ProjectTemplate": null,
+    "CsProjName": ""
+  }
+}
